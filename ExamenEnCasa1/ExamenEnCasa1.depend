@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1424934531 source:/home/rmurcia/Documentos/CODE:BLOCKS/ExamenEnCasa1/main.cpp
+	<iostream>
+	<stack>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1424934762 source:c:\users\marcial ordonez\desktop\estructuras\examenencasa1\main.cpp
+	<iostream>
+	<stack>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+

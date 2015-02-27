@@ -300,6 +300,7 @@ int main()
 
         while (window.pollEvent(event))
         {
+
             if (event.type == sf::Event::Closed) //si se cierra manualmente
             {
                 window.close();
@@ -433,6 +434,8 @@ int main()
         if(cont!=0) //si hubo pop/push en la cualquiera de las pilas
         {
             tope.loadFromFile(p2.top()); //a la textura de la pila se le asigna el nuevo top
+                                p2.Push(c1);
+                    cont++;
         }
         if(cont==1) //si hubo pop/push en la cualquiera de las pilas
         {
